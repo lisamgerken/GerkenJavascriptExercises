@@ -1,5 +1,4 @@
-/*
-Exercise 1
+/*Exercise 1
 var userInput = prompt("Please enter a number");
 var sum = 0
 for (var i = 0; i < userInput; i++){
@@ -34,7 +33,7 @@ while (userInput != "no") {
 	console.log("Hello.  My name is " + name + exclaim)
 	exclaim += "!"
 	}
-	 
+*/	 
 
 
 /*Exercise 4
@@ -45,11 +44,11 @@ var nooN = "noon"
 var pm = "evening"
 
 if (userInput == am) {
-	console.log("Since it's morning, you should be eating breakfast.  We suggest eggs and toast.")
+	console.log("Since it's morning, you should be eating breakfast.  We suggest pancakes and bacon.")
 } else if (userInput == nooN) {
-	console.log("Since its noon, you should be eating lunch.  We suggest a salad.")
+	console.log("Since its noon, you should be eating lunch.  We suggest a sandwich.")
 } else {
-	console.log("Since it's evening, you should be eating dinner.  We suggest chicken and rice.")
+	console.log("Since it's evening, you should be eating dinner.  We suggest salmon and asparagus.")
 }
 */
 
